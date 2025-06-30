@@ -83,7 +83,7 @@ docker run --env-file .env qr-code-generator
 4. A imagem é enviada automaticamente ao bucket S3 especificado.
 5. A URL do arquivo no S3 é retornada para uso ou exibição.
 
-## QRCODE gerado pelo projeto
+## QrCode gerado pelo projeto
 
 ![Captura de tela de 2025-06-30 20-26-11](https://github.com/user-attachments/assets/d195e134-9f05-42b9-95e5-8d911f7c1965)
 
